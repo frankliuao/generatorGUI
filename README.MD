@@ -57,7 +57,7 @@ current working directory, i.e. where you run the **main.py** script. If only
 ### Installation
 Install easyexception using `pip`, or `pip3`
 
-    pip install easyexception
+    pip install generatorGUI
 
 ### Repository
-[GitHub page](https://github.com/frankliuao/)
+[GitHub page](https://github.com/frankliuao/generatorGUI)
